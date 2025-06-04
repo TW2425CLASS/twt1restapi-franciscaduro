@@ -7,10 +7,375 @@
       "curso": 1,
       "anoCurricular": 2,
       "idade" : 21
+    },
+
+    {
+      "nome": "Maria",
+      "apelido": "Sousa",
+      "curso": 1,
+      "anoCurricular": 2,
+      "idade" : 19
+    },
+
+       {
+      "nome": "João",
+      "apelido": "Pereira",
+      "curso": 1,
+      "anoCurricular": 2,
+      "idade" : 22
+    },
+
+       {
+      "nome": "Sofia",
+      "apelido": "Cerqueira",
+      "curso": 1,
+      "anoCurricular": 1,
+      "idade" : 18
+    },
+
+       {
+      "nome": "Manuel",
+      "apelido": "Silva",
+      "curso": 1,
+      "anoCurricular": 3,
+      "idade" : 21
+    },
+
+    {
+      "nome": "Manuel",
+      "apelido": "Silva",
+      "curso": 1,
+      "anoCurricular": 1,
+      "idade" : 19
+    },
+
+    {
+      "nome": "Tiago",
+      "apelido": "Torres",
+      "curso": 1,
+      "anoCurricular": 1,
+      "idade" : 18
+    },
+
+    {
+      "nome": "José",
+      "apelido": "Costa",
+      "curso": 1,
+      "anoCurricular": 3,
+      "idade" : 23
+    },
+
+    {
+      "nome": "Filipa",
+      "apelido": "Duarte",
+      "curso": 2,
+      "anoCurricular": 1,
+      "idade" : 19
+    },
+
+    {
+      "nome": "Carlota",
+      "apelido": "Torres",
+      "curso": 2,
+      "anoCurricular": 1,
+      "idade" : 18
+    },
+
+    {
+      "nome": "Rodrigo",
+      "apelido": "Sousa",
+      "curso": 2,
+      "anoCurricular": 2,
+      "idade" : 20
+    },
+
+    {
+      "nome": "David",
+      "apelido": "Faria",
+      "curso": 2,
+      "anoCurricular": 1,
+      "idade" : 18
+    },
+
+    {
+      "nome": "Carla",
+      "apelido": "Torres",
+      "curso": 2,
+      "anoCurricular": 2,
+      "idade" : 20
+    },
+
+    {
+      "nome": "Paula",
+      "apelido": "Coata",
+      "curso": 2,
+      "anoCurricular": 2,
+      "idade" : 21
+    },
+
+    {
+      "nome": "Teresa",
+      "apelido": "Pontes",
+      "curso": 2,
+      "anoCurricular": 3,
+      "idade" : 21
+    },
+
+     {
+      "nome": "Manuela",
+      "apelido": "Costa",
+      "curso": 2,
+      "anoCurricular": 3,
+      "idade" : 23
+    },
+
+     {
+      "nome": "Leonor",
+      "apelido": "Viana",
+      "curso": 2,
+      "anoCurricular": 3,
+      "idade" : 22
+    },
+
+    {
+      "nome": "Alexandre",
+      "apelido": "Fernandes",
+      "curso": 2,
+      "anoCurricular": 3,
+      "idade" : 24
+    },
+    
+    { 
+      "nome": "Inês",
+      "apelido": "Ramos",
+      "curso": 3,
+      "anoCurricular": 1, 
+      "idade": 18 
+    },
+
+
+    {
+      "nome": "Miguel",  
+      "apelido": "Freitas", 
+      "curso": 3,
+      "anoCurricular": 1, 
+      "idade": 19 
+    },
+
+
+    { 
+      "nome": "Beatriz", 
+      "apelido": "Fonseca", 
+      "curso": 3, 
+      "anoCurricular": 2, 
+      "idade": 21 
+    },
+
+
+    { 
+      "nome": "Rita",
+      "apelido": "Barros",
+      "curso": 3, 
+      "anoCurricular": 2, 
+      "idade": 20 
+    },
+
+    { 
+      "nome": "Pedro",
+      "apelido": "Lopes",
+      "curso": 3, 
+      "anoCurricular": 3, 
+      "idade": 23 
+    },
+
+    { 
+      "nome": "Ana",
+      "apelido": "Morais",
+      "curso": 3,
+      "anoCurricular": 3, 
+      "idade": 22 
+    },
+
+    {
+      "nome": "André",
+      "apelido": "Gomes",
+      "curso": 4,
+      "anoCurricular": 1,
+      "idade": 18
+    },
+    {
+      "nome": "Patrícia",
+      "apelido": "Machado",
+      "curso": 4,
+      "anoCurricular": 1,
+      "idade": 19
+    },
+    {
+      "nome": "Bruno",
+      "apelido": "Pinto",
+      "curso": 4,
+      "anoCurricular": 2,
+      "idade": 20
+    },
+    {
+      "nome": "Helena",
+      "apelido": "Martins",
+      "curso": 4,
+      "anoCurricular": 2,
+      "idade": 21
+    },
+    {
+      "nome": "Ricardo",
+      "apelido": "Mendes",
+      "curso": 4,
+      "anoCurricular": 3,
+      "idade": 24
+    },
+    {
+      "nome": "Catarina",
+      "apelido": "Almeida",
+      "curso": 4,
+      "anoCurricular": 3,
+      "idade": 23
+    },
+
+    {
+      "nome": "Luís",
+      "apelido": "Rocha",
+      "curso": 5,
+      "anoCurricular": 1,
+      "idade": 18
+    },
+    {
+      "nome": "Mariana",
+      "apelido": "Nogueira",
+      "curso": 5,
+      "anoCurricular": 1,
+      "idade": 20
+    },
+    {
+      "nome": "Fábio",
+      "apelido": "Monteiro",
+      "curso": 5,
+      "anoCurricular": 2,
+      "idade": 21
+    },
+    {
+      "nome": "Leonor",
+      "apelido": "Campos",
+      "curso": 5,
+      "anoCurricular": 2,
+      "idade": 22
+    },
+    {
+      "nome": "Diogo",
+      "apelido": "Vaz",
+      "curso": 5,
+      "anoCurricular": 3,
+      "idade": 23
+    },
+    {
+      "nome": "Tatiana",
+      "apelido": "Reis",
+      "curso": 5,
+      "anoCurricular": 3,
+      "idade": 25
+    },
+
+    {
+      "nome": "Eduardo",
+      "apelido": "Carvalho",
+      "curso": 6,
+      "anoCurricular": 1,
+      "idade": 18
+    },
+    {
+      "nome": "Daniela",
+      "apelido": "Jesus",
+      "curso": 6,
+      "anoCurricular": 1,
+      "idade": 20
+    },
+    {
+      "nome": "César",
+      "apelido": "Borges",
+      "curso": 6,
+      "anoCurricular": 2,
+      "idade": 21
+    },
+    {
+      "nome": "Liliana",
+      "apelido": "Neves",
+      "curso": 6,
+      "anoCurricular": 2,
+      "idade": 22
+    },
+    {
+      "nome": "Carlos",
+      "apelido": "Vieira",
+      "curso": 6,
+      "anoCurricular": 3,
+      "idade": 24
+    },
+    {
+      "nome": "Raquel",
+      "apelido": "Barbosa",
+      "curso": 6,
+      "anoCurricular": 3,
+      "idade": 25
+    },
+
+    {
+      "nome": "Duarte",
+      "apelido": "Teixeira",
+      "curso": 7,
+      "anoCurricular": 1,
+      "idade": 18
+    },
+    {
+      "nome": "Marta",
+      "apelido": "Henriques",
+      "curso": 7,
+      "anoCurricular": 1,
+      "idade": 19
+    },
+    {
+      "nome": "Gonçalo",
+      "apelido": "Batista",
+      "curso": 7,
+      "anoCurricular": 2,
+      "idade": 21
+    },
+    {
+      "nome": "Rafael",
+      "apelido": "Oliveira",
+      "curso": 7,
+      "anoCurricular": 2,
+      "idade": 22
+    },
+    {
+      "nome": "Vera",
+      "apelido": "Guerreiro",
+      "curso": 7,
+      "anoCurricular": 3,
+      "idade": 24
+    },
+    {
+      "nome": "Susana",
+      "apelido": "Simões",
+      "curso": 7,
+      "anoCurricular": 3,
+      "idade": 25
     }
+  
   ],
   "cursos": [
     { "id" : 1, "nomeDoCurso": "Engenharia da Computação Gráfica e Multimédia" },
-    { "id" : 2, "nomeDoCurso": "Engenharia de Redes e Sistemas de Computadores" }
+    { "id" : 2, "nomeDoCurso": "Engenharia de Redes e Sistemas de Computadores" },
+    { "id" : 3, "nomeDoCurso": "Turismo" },
+    { "id" : 4, "nomeDoCurso": "Gestão" },
+    { "id" : 5, "nomeDoCurso": "Engenharia Alimentar" },
+    { "id" : 6, "nomeDoCurso": "Design do Produto" },
+    { "id" : 7, "nomeDoCurso": "Engenharia Mecânica " }
   ]
 }
